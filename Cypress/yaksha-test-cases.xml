@@ -1,0 +1,82 @@
+<test-cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-TestCase-1:VerifyNewQualificationCouldBeAddedToTheRecordOfUser</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-TestCase-2:VerifyNewQualificationCouldBeEditedFromTheTheRecordOfUser</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-TestCase-3:VerifyTheQualificationCouldBeDeleted</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-TestCase-4:VerifyTheQualificationsSelectDeleteFunctionality</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-TestCase-5:VerifyNewQualificationAddedCouldBeEditedFromTheRecordOfUser</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-TestCase-6:VerifyNewEducationAddedCouldBeEditedFromTheRecordOfUser</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-TestCase-7:verifyNewLanguageAddedCouldBeAddedToTheRecordOfUser</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-TestCase-8:VerifyNewLanguageAddedCouldBeDeletedFromTheRecordOfUser</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-TestCase-9:VerifyThe"skills"CouldBeAddedToTheRecord</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-TestCase-10:VerifyThe"skills"CouldBeEditedFromTheRecord</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+</test-cases>
